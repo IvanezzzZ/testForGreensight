@@ -1,1 +1,1 @@
-[{"id":1,"email":"zhuikov.ivan@mail.ru","name":"user"}]
+[{"id":1,"email":"zhuikov.ivan@mail.ru","name":"ivan"}]
